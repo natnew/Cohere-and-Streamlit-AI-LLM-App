@@ -1,1 +1,1 @@
-# Cohere-and-Streamlit-AI-LLM-App
+# Cohere and Streamlit AI LLM App
